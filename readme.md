@@ -166,8 +166,8 @@ $groupMarketplaces | type: boolean | default: false | required: false | desc: gr
     &nbsp;
     &nbsp;
     <p align="center">
-        <span>🫧 never ever</span>
+        🫧 never ever
         <br>
-        <span>mioversolna</span>
+        mioversolna
     </p>
 </div>
