@@ -166,9 +166,7 @@ $groupMarketplaces | type: boolean | default: false | required: false | desc: gr
     &nbsp;
     &nbsp;
     <p align="center">
-        <img src="http://moletti.com.tr/cdn/mioversolna/mioversolna_never_ever.png" width="25px">
-        &nbsp;
-        <span>never ever</span>
+        <span>🫧 never ever</span>
         <br>
         <span>mioversolna</span>
     </p>
