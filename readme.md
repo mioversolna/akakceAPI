@@ -1,4 +1,4 @@
-# <p style="text-align: center;"><img src="./readme_files/Akakce.svg" style="background-color: white; margin-right: 10px; border-radius: 10px" width="200px" alt="akakçe api logo"><span>API</span></p>
+# <p align="center"><img src="./readme_files/Akakce.svg" style="background-color: white; margin-right: 10px; border-radius: 10px" width="200px" alt="akakçe api logo"><span>API</span></p>
 
 Yasal olarak "akakçe" tarafından sağlanan bir api ve dokümantasyon değildir, bilgilendirme ve eğitim amaçlıdır. 
 
